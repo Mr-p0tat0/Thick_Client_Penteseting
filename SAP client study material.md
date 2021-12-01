@@ -7,6 +7,7 @@
 - https://github.com/Jean-Francois-C/SAP-Security-Audit/blob/master/SAP%20security%20audit%20and%20penetration%20test
 - https://github.com/vah13/SAP_exploit (netviewer)
 - https://github.com/vah13/SAP_exploit/blob/master/Hardcore-SAP-Penetration-Testing.pdf
+- https://github.com/dinosn/sap/blob/main/exploits.md (cve)
 - 
 
 ## Default Credential
